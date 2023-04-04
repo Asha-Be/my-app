@@ -16,3 +16,4 @@ var Datedate = format ( date, "MM-dd" );
 console.log(formatDate);
 console.log(Datedate);
 console.log(formatDate, Datedate);
+//무언가 추가
